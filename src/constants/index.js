@@ -173,7 +173,7 @@ export const projects = [
     source_code_link: "https://github.com/Askulo/Gallery?tab=readme-ov-file#readme",
   },
   {
-    name: "Events Description",
+    name: "Painting Wing",
     description:
       "This is the official website of the Painting Wing, BIT Sindri — a vibrant student-led community that fosters creativity through curated artistic events and workshops.",
     tags: [
@@ -191,11 +191,11 @@ export const projects = [
       },
     ],
     image: {
-      src: "/events.jpg",
+      src: "/Landing-page.jpg",
       width: 800, // replace with actual width of events.jpg
       height: 900 // replace with actual height of events.jpg
     },
-    source_code_link: "https://github.com/Askulo/Painting",
+    source_code_link: "https://github.com/Askulo/painting-wing",
   },
 ];
 
